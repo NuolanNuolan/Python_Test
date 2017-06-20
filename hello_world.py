@@ -51,14 +51,37 @@
 # numbers = list(range(1,101,2))
 # print(numbers)
 
-squares = []
-for value in range(1,10):
+# squares = []
+# for value in range(1,10):
 
-	squares.append(value*2)
-print(squares)
-print(min(squares))
-print(max(squares))
-print(sum(squares))
+# 	squares.append(value*2)
+# print(squares)
+# print(min(squares))
+# print(max(squares))
+# print(sum(squares))
+
+# squares = [value**2 for value in range(1,11)]
+# print(squares)
+
+# squares = []
+# for value in range(1,101):
+# 	squares.append(value)
+
+# print(squares)
+# print(len(squares))
+# for value1 in squares[:3]:
+# 	print(value1)
+
+# #元组
+# dimensions = (200,500,500)
+# dimensions = (400,400,500)
+# for value in dimensions:
+#     print(value)
+
+names = ["admin","root","yuanlianlin","memeda","fuck"]
+for name in names:
+    print("hello %s welcome"%name)
+
 
 
 
