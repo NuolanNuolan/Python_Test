@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+import json
+import unittest
 from def_hello import *
 from collections import OrderedDict
 
@@ -161,7 +163,7 @@ from collections import OrderedDict
 #     print(key, value)
 # print('我是中文')
 
-#%5==0
+# %5==0
 # def Orial(num):
 #     while num%5 == 0:
 #         print("%5等于0")
@@ -179,7 +181,7 @@ from collections import OrderedDict
 # num = input("数字:")
 # print(Num(int(num)))
 
-#读取文件
+# 读取文件
 # with open('pi_digits.txt') as file_object:
 #     contents = file_object.read()
 #     print(contents.rstrip())
@@ -219,7 +221,7 @@ from collections import OrderedDict
 # with open(filename) as file_object:
 #     print(file_object.read())
 
-#异常
+# 异常
 # print(5/0)
 # try:
 #     print(5/0)
@@ -232,8 +234,36 @@ from collections import OrderedDict
 #         print(file_object.read())
 # except FileNotFoundError:
 #     print('msg:文件不存在')
-#分割字符串 指定分割字符 以及次数
+# 分割字符串 指定分割字符 以及次数
 # title = "Ailce in wonderland"
 # title = title.split(' ')
 # print(title)
+# json读取写入
+# numbers = [4,3,5,7,9,11,13]
+# filename = 'numbers.json'
+# with open(filename,'w') as file_object:
+#     json.dump(numbers,file_object)
+#       json.load(file_object)
+
+# filename = 'name.json'
+# try:
+#     with open(filename, 'r') as jsonobj:
+#         print('welcome %s' % json.load((jsonobj)))
+# except FileNotFoundError:
+#     name = input("请输入你的名字:")
+#     with open(filename, 'w') as jsonobj:
+#         json.dump(name, jsonobj)
+
+# from name_function import *
+# while True:
+#     first = input("first name :")
+#     if first == 'q':
+#         break
+#     last = input('last name :')
+#     if last == 'q':
+#         break
+#     formatted_name = get_formatted_name(first,last)
+#     print("Formattedname:%s"%formatted_name)
+
+
 
