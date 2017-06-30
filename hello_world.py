@@ -3,6 +3,8 @@ import json
 import unittest
 from def_hello import *
 from collections import OrderedDict
+import urllib.request
+import requests
 
 # //大小写
 # name = "ada lovalcase"
@@ -266,4 +268,9 @@ filename = 'pi_digits.txt'
 #     print("Formattedname:%s"%formatted_name)
 
 
-
+url = 'www.daouban.com'
+request = urllib.request.Request(url)
+response = urllib.request.urlopen(request)
+data = response.read()
+data = data.decode('utf-8')
+print(data)
