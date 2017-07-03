@@ -1,347 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d9eb58b-023e-4b5f-b260-9e086618cc0d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_lig/__init__.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/UPDATES.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/appendix_a/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/appendix_b/Python3.sublime-build" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/appendix_b/hello_world.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/appendix_d/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/appendix_d/hello_world.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_01/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_01/figures/crash_course01-01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_01/figures/crash_course01-02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_01/figures/crash_course01-03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_01/hello_world.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_01/linux_setup.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_01/osx_setup.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_01/windows_setup.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_02/apostrophe.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_02/birthday.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_02/comment.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_02/hello_world.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_02/name.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_03/bicycles.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_03/cars.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_03/motorcycles.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_04/dimensions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_04/even_numbers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_04/foods.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_04/magicians.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_04/numbers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_04/players.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_04/squares.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_05/amusement_park.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_05/banned_users.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_05/cars.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_05/magic_number.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_05/toppings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_05/voting.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_06/alien.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_06/aliens.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_06/favorite_languages.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_06/many_users.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_06/pizza.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_06/user.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_07/cities.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_07/confirmed_users.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_07/counting.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_07/even_or_odd.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_07/greeter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_07/mountain_poll.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_07/parrot.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_07/pets.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_07/rollercoaster.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_08/formatted_name.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_08/greet_users.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_08/greeter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_08/making_pizzas.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_08/person.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_08/pets.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_08/pizza.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_08/printing_models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_08/user_profile.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_09/car.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_09/dog.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_09/electric_car.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_09/favorite_languages.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_09/my_car.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_09/my_cars.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_10/alice.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_10/alice.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_10/division.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_10/file_reader.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_10/greet_user.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_10/little_women.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_10/moby_dick.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_10/number_reader.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_10/number_writer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_10/numbers.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_10/pi_30_digits.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_10/pi_digits.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_10/pi_million_digits.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_10/pi_string.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_10/programming.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_10/remember_me.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_10/siddhartha.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_10/word_count.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_10/write_message.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_11/language_survey.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_11/name_function.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_11/names.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_11/survey.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_11/test_name_function.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_11/test_survey.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/alien_invasion.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/bullet.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/figures/crash_course12-01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/figures/crash_course12-02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/figures/crash_course12-03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/game_functions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/installing_pip.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/restore_points/restore_point_1_ship_moves/alien_invasion.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/restore_points/restore_point_1_ship_moves/game_functions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/restore_points/restore_point_1_ship_moves/images/ship.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/restore_points/restore_point_1_ship_moves/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/restore_points/restore_point_1_ship_moves/ship.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/restore_points/restore_point_2_fires_bullets/alien_invasion.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/restore_points/restore_point_2_fires_bullets/bullet.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/restore_points/restore_point_2_fires_bullets/game_functions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/restore_points/restore_point_2_fires_bullets/images/ship.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/restore_points/restore_point_2_fires_bullets/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/restore_points/restore_point_2_fires_bullets/ship.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/restore_points/restore_point_3_end_chapter_12/alien_invasion.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/restore_points/restore_point_3_end_chapter_12/bullet.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/restore_points/restore_point_3_end_chapter_12/game_functions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/restore_points/restore_point_3_end_chapter_12/images/ship.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/restore_points/restore_point_3_end_chapter_12/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/restore_points/restore_point_3_end_chapter_12/ship.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/ship.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_13/alien.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_13/alien_invasion.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_13/bullet.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_13/figures/crash_course13-01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_13/figures/crash_course13-02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_13/figures/crash_course13-03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_13/figures/crash_course13-04.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_13/figures/crash_course13-05.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_13/figures/crash_course13-06.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_13/game_functions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_13/game_stats.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_13/images/alien.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_13/images/ship.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_13/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_13/ship.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_14/alien.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_14/alien_invasion.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_14/bullet.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_14/button.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_14/figures/crash_course14-01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_14/figures/crash_course14-02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_14/figures/crash_course14-03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_14/figures/crash_course14-04.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_14/figures/crash_course14-05.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_14/figures/crash_course14-06.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_14/game_functions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_14/game_stats.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_14/images/alien.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_14/images/ship.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_14/scoreboard.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_14/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_14/ship.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/dice_visual.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/die.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/die_visual.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/different_dice.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/figures/crash_course15-01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/figures/crash_course15-02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/figures/crash_course15-03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/figures/crash_course15-04.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/figures/crash_course15-05.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/figures/crash_course15-06.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/figures/crash_course15-07.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/figures/crash_course15-08.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/figures/crash_course15-09.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/figures/crash_course15-10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/figures/crash_course15-11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/figures/crash_course15-12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/figures/crash_course15-13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/mpl_squares.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/pygal2_update/dice_visual.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/pygal2_update/die.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/pygal2_update/die_visual.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/pygal2_update/different_dice.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/random_walk.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/rw_visual.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/scatter_squares.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/americas.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/countries.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/country_codes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/death_valley_2014.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/figures/crash_course16-01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/figures/crash_course16-02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/figures/crash_course16-03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/figures/crash_course16-04.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/figures/crash_course16-05.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/figures/crash_course16-06.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/figures/crash_course16-07.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/figures/crash_course16-08.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/figures/crash_course16-09.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/figures/crash_course16-10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/figures/crash_course16-11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/highs_lows.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/na_populations.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/population_data.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/pygal2_update/americas.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/pygal2_update/countries.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/pygal2_update/country_codes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/pygal2_update/na_populations.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/pygal2_update/population_data.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/pygal2_update/world_population.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/sitka_weather_07-2014.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/sitka_weather_2014.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_16/world_population.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_17/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_17/bar_descriptions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_17/figures/crash_course17-01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_17/figures/crash_course17-02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_17/figures/crash_course17-03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_17/figures/crash_course17-04.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_17/hn_submissions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_17/pygal2_update/bar_descriptions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_17/pygal2_update/python_repos.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_17/python_repos.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_17/python_repos_updated.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/figures/crash_course18-01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/figures/crash_course18-02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/figures/crash_course18-03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/figures/crash_course18-04.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/figures/crash_course18-05.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/learning_log/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/learning_log/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/learning_log/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/learning_log/wsgi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/learning_logs/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/learning_logs/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/learning_logs/migrations/0001_initial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/learning_logs/migrations/0002_entry.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/learning_logs/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/learning_logs/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/learning_logs/templates/learning_logs/base.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/learning_logs/templates/learning_logs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/learning_logs/templates/learning_logs/topic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/learning_logs/templates/learning_logs/topics.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/learning_logs/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/learning_logs/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/learning_logs/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/manage.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/figures/crash_course19-01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/figures/crash_course19-02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/figures/crash_course19-03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/figures/crash_course19-04.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/figures/crash_course19-05.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/learning_log/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/learning_log/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/learning_log/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/learning_log/wsgi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/learning_logs/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/learning_logs/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/learning_logs/forms.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/learning_logs/migrations/0001_initial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/learning_logs/migrations/0002_entry.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/learning_logs/migrations/0003_topic_owner.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/learning_logs/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/learning_logs/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/learning_logs/templates/learning_logs/base.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/learning_logs/templates/learning_logs/edit_entry.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/learning_logs/templates/learning_logs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/learning_logs/templates/learning_logs/new_entry.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/learning_logs/templates/learning_logs/new_topic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/learning_logs/templates/learning_logs/topic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/learning_logs/templates/learning_logs/topics.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/learning_logs/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/learning_logs/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/learning_logs/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/manage.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/users/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/users/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/users/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/users/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/users/templates/users/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/users/templates/users/register.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/users/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/users/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_19/users/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/Procfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/figures/crash_course20-01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/figures/crash_course20-02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/figures/crash_course20-03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_log/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_log/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_log/static/placeholder.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_log/templates/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_log/templates/500.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_log/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_log/wsgi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_logs/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_logs/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_logs/forms.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_logs/migrations/0001_initial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_logs/migrations/0002_entry.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_logs/migrations/0003_topic_owner.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_logs/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_logs/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_logs/templates/learning_logs/base.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_logs/templates/learning_logs/edit_entry.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_logs/templates/learning_logs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_logs/templates/learning_logs/new_entry.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_logs/templates/learning_logs/new_topic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_logs/templates/learning_logs/topic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_logs/templates/learning_logs/topics.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_logs/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_logs/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/learning_logs/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/manage.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/requirements.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/runtime.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/users/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/users/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/users/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/users/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/users/templates/users/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/users/templates/users/register.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/users/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/users/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_20/users/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/cheat_sheets/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/cheat_sheets/beginners_python_cheat_sheet_pcc.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/cheat_sheets/beginners_python_cheat_sheet_pcc_all.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/cheat_sheets/beginners_python_cheat_sheet_pcc_classes.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/cheat_sheets/beginners_python_cheat_sheet_pcc_dictionaries.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/cheat_sheets/beginners_python_cheat_sheet_pcc_django.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/cheat_sheets/beginners_python_cheat_sheet_pcc_files_exceptions.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/cheat_sheets/beginners_python_cheat_sheet_pcc_functions.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/cheat_sheets/beginners_python_cheat_sheet_pcc_if_while.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/cheat_sheets/beginners_python_cheat_sheet_pcc_lists.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/cheat_sheets/beginners_python_cheat_sheet_pcc_matplotlib.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/cheat_sheets/beginners_python_cheat_sheet_pcc_pygal.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/cheat_sheets/beginners_python_cheat_sheet_pcc_pygame.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ehmatthes-pcc-f063320/cheat_sheets/beginners_python_cheat_sheet_pcc_testing.pdf" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/alien_invasion/Request/python_repos.py" afterPath="$PROJECT_DIR$/alien_invasion/Request/python_repos.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello_world.py" afterPath="$PROJECT_DIR$/hello_world.py" />
-    </list>
+    <list default="true" id="9d9eb58b-023e-4b5f-b260-9e086618cc0d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -378,22 +38,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="hello_world.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello_world.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-              <folding>
-                <element signature="e#24#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="game_functions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alien_invasion/game_functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-378">
+            <state relative-caret-position="18">
               <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
@@ -445,8 +93,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learning_lig/learning_logs/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="162">
+              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -456,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/alien_invasion/Request/python_repos.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -475,7 +123,7 @@
       <file leaf-file-name="api.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/requests/api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
+            <state relative-caret-position="1080">
               <caret line="60" column="4" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
               <folding />
             </state>
@@ -563,10 +211,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1920" />
-    <option name="y" value="-134" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="828" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -586,7 +233,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -666,6 +312,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -974,19 +621,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="-134" width="1920" height="1057" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="828" extended-state="6" />
     <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0069444445" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22267206" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13020833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39608434" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -995,6 +640,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1014,11 +660,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/figures/crash_course12-02.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/figures/crash_course12-02.png" />
     <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/matplotlib/backends/backend_macosx.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -1026,25 +668,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/mpl_squares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/figures/crash_course12-01.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/alien_invasion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/mpl_squares.py" />
+    <entry file="file://$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/figures/crash_course12-01.png" />
+    <entry file="file://$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/alien_invasion.py" />
     <entry file="file://$PROJECT_DIR$/alien_invasion/alien_invasion.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -1052,21 +678,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alien_invasion/chart/square_plt.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/figures/crash_course12-03.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/alien_invasion/chart/square_plt.png" />
+    <entry file="file://$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_12/figures/crash_course12-03.png" />
     <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/matplotlib/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1074,7 +691,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-811">
           <caret line="1470" column="8" lean-forward="false" selection-start-line="1470" selection-start-column="8" selection-end-line="1470" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1082,26 +698,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="696" column="18" lean-forward="true" selection-start-line="696" selection-start-column="18" selection-end-line="696" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/die.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_15/die.py" />
     <entry file="file://$PROJECT_DIR$/alien_invasion/chart/die_visual.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
           <caret line="3" column="113" lean-forward="false" selection-start-line="3" selection-start-column="113" selection-end-line="3" selection-end-column="113" />
-          <folding>
-            <element signature="e#1406#1410#0" expanded="false" />
-            <element signature="e#1484#1488#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1109,7 +713,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1117,9 +720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1127,7 +727,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="71">
           <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1135,7 +734,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1143,7 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1151,9 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="28" column="37" lean-forward="false" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#20#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1161,9 +755,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1171,7 +762,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1179,7 +769,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1187,7 +776,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1996">
           <caret line="119" column="4" lean-forward="false" selection-start-line="119" selection-start-column="4" selection-end-line="119" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1195,7 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1203,7 +790,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1211,7 +797,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1219,7 +804,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1227,7 +811,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1235,49 +818,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
           <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_lig/learning_logs/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_lig/learning_logs/apps.py" />
     <entry file="file://$PROJECT_DIR$/learning_lig/learning_logs/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/learning_logs/templates/learning_logs/topics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/learning_logs/templates/learning_logs/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/learning_logs/templates/learning_logs/topics.html" />
+    <entry file="file://$PROJECT_DIR$/ehmatthes-pcc-f063320/chapter_18/learning_logs/templates/learning_logs/base.html" />
     <entry file="file://$PROJECT_DIR$/learning_lig/learning_log/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding>
-            <element signature="e#646#687#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1293,7 +850,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1301,7 +857,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1309,7 +864,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1317,7 +871,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1325,7 +878,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9966">
           <caret line="832" column="8" lean-forward="false" selection-start-line="832" selection-start-column="8" selection-end-line="832" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1333,13 +885,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/requests/api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
+        <state relative-caret-position="1080">
           <caret line="60" column="4" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
           <folding />
         </state>
@@ -1347,7 +898,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hello_world.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
+        <state relative-caret-position="18">
           <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
           <folding>
             <element signature="e#24#35#0" expanded="true" />
@@ -1358,7 +909,7 @@
     <entry file="file://$PROJECT_DIR$/alien_invasion/Request/python_repos.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1373,7 +924,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/alien_invasion/game_functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-378">
+        <state relative-caret-position="18">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
@@ -1415,8 +966,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learning_lig/learning_logs/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="162">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
           <folding />
         </state>
       </provider>
