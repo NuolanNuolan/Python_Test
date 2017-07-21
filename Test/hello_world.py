@@ -268,7 +268,7 @@ filename = 'pi_digits.txt'
 #     print("Formattedname:%s"%formatted_name)
 
 
-url = 'www.daouban.com'
+url = 'http://10.176.1.254/web/device/login?lang=1'
 request = urllib.request.Request(url)
 response = urllib.request.urlopen(request)
 data = response.read()
