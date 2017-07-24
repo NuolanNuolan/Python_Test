@@ -3,7 +3,7 @@
 """
 
 import requests
-from music_163 import sql
+import sql
 import time
 import threading
 import pymysql.cursors
@@ -11,18 +11,19 @@ import pymysql.cursors
 
 class Comments(object):
     headers = {
-        'Host': 'music.163.com',
+
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Encoding': 'gzip, deflate, sdch',
+        'Accept-Language': 'zh-CN,zh;q=0.8,en;q=0.6',
+        'Cache-Control': 'no-cache',
         'Connection': 'keep-alive',
-        'Content-Length': '484',
-        'Cache-Control': 'max-age=0',
-        'Origin': 'http://music.163.com',
-        'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36',
-        'Content-Type': 'application/x-www-form-urlencoded',
-        'Accept': '*/*',
+        'Cookie': '_ntes_nnid=fdc0e113bec0ba20cf5122867952757f,1481009558059; _ntes_nuid=fdc0e113bec0ba20cf5122867952757f; MUSIC_U=d3d77e6ab688f7f0d9e3b157499573f7b6999fe3cdd3751007634119f6e0ba04c9f350c52f6e7cbf0ea92ca0dcd1435172a4782b5b19e79ede39c620ce8469a8; NETEASE_WDA_UID=118964218#|#1451582239519; vjuids=-108ae1ad6.15996131da7.0.1dd5a8d2881fa; mail_psc_fingerprint=6b8bb42cf43f07a7191585ddafa094fb; UM_distinctid=15adb27164c6e9-095b2d0327c9be-1d3e6850-1fa400-15adb27164d6f2; vjlast=1484281552.1489735458.21; vinfo_n_f_l_n3=137cd7b60cceaa6e.1.2.1484281552324.1486037205195.1489735676316; P_INFO=yllwangyi@163.com|1493976363|0|mail163|00&99|zhj&1493962807&mail_client#zhj&330100#10#0#0|136790&0|yanxuan&mail163|yllwangyi@163.com; __csrf=e3bebe825c52667eb4274846ba9bcb01; JSESSIONID-WYYY=RHoC01ZvhcVs%2F6%5CtrQAtbDmjRzYtR7T0ouZYHGAZQd%2BG2xgtr7BCzN8E3TRqTJAxri7W%2FlXv0JGtp7VtSkg3DuRYmPW8m1HU45D%5C4OVAJmbZSvQ5XtkN7fTjz6xem%2B8s1MY1pNSpIKO7cRM5OBsSE%5CSGa8iRqqtS4Cin2cYRY%2FrlfU3M%3A1500627854080; _iuqxldmzr_=32; __utma=94650624.192912792.1481010208.1497407948.1500626055.87; __utmb=94650624.8.10.1500626055; __utmc=94650624; __utmz=94650624.1497407948.86.28.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)',
         'DNT': '1',
-        'Accept-Encoding': 'gzip, deflate',
-        'Accept-Language': 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
-        'Cookie': 'JSESSIONID-WYYY=b66d89ed74ae9e94ead89b16e475556e763dd34f95e6ca357d06830a210abc7b685e82318b9d1d5b52ac4f4b9a55024c7a34024fddaee852404ed410933db994dcc0e398f61e670bfeea81105cbe098294e39ac566e1d5aa7232df741870ba1fe96e5cede8372ca587275d35c1a5d1b23a11e274a4c249afba03e20fa2dafb7a16eebdf6%3A1476373826753; _iuqxldmzr_=25; _ntes_nnid=7fa73e96706f26f3ada99abba6c4a6b2,1476372027128; _ntes_nuid=7fa73e96706f26f3ada99abba6c4a6b2; __utma=94650624.748605760.1476372027.1476372027.1476372027.1; __utmb=94650624.4.10.1476372027; __utmc=94650624; __utmz=94650624.1476372027.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)',
+        'Host': 'music.163.com',
+        'Pragma': 'no-cache',
+        'Referer': 'http://music.163.com/',
+        'Upgrade-Insecure-Requests': '1',
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36'
     }
 
     params = {
@@ -57,7 +58,8 @@ if __name__ == '__main__':
             try:
                 comments = my_comment.get_comments(my_music_id, flag)
                 if comments['total'] > 0:
-                    sql.insert_comments(my_music_id, comments['total'], str(comments), connection0)
+                    print(comments)
+                    # sql.insert_comments(my_music_id, comments['total'], str(comments), connection0)
             except Exception as e:
                 # 打印错误日志
                 print(my_music_id)
@@ -71,16 +73,16 @@ if __name__ == '__main__':
     # pymysql 链接不是线程安全的
     connection1 = pymysql.connect(host='localhost',
                                   user='root',
-                                  password='1234',
-                                  db='test',
-                                  charset='utf8mb4',
+                                  password='root',
+                                  db='Eason_Test',
+                                  charset='utf8',
                                   cursorclass=pymysql.cursors.DictCursor)
 
     connection2 = pymysql.connect(host='localhost',
                                   user='root',
-                                  password='1234',
-                                  db='test',
-                                  charset='utf8mb4',
+                                  password='root',
+                                  db='Eason_Test',
+                                  charset='utf8',
                                   cursorclass=pymysql.cursors.DictCursor)
 
     t1 = threading.Thread(target=save_comments, args=(music_before, True, connection1))
